@@ -1,0 +1,26 @@
+#BlackFridayHeader{
+width: 100%;
+}
+
+.input-field{
+    margin-top: 0.5rem!important;
+    margin-bottom: 0.5rem!important;
+}
+
+.font{
+ font-size: smaller;
+ text-decoration: none;
+}
+
+H1 {
+  font-size: 2.2rem;
+}
+H2{
+  font-size: 1.5rem;
+}
+@media screen and (min-width: 1000px) and (max-width: 3000px) {
+    body {
+      margin-left : 20%;
+      margin-right: 20%;
+    }
+  }
